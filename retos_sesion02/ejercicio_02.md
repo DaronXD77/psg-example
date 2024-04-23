@@ -1,5 +1,6 @@
 # Autobiorafia :D
 
+![Darooon](C:\2024\psg-example\Daroooon.jpg)
 Hola!!, mi nombre es Daron Augusto Baldiviezo Aillon
 Naci el 21 de Diciembre de 2002 en la ciudad de La Paz bolivia, tuve una infancia astante agradable en un hogar bastante normal
 me forme en el colegio Instituto Americano en La Paz, estuve desde que tenia 5 anios hasta los 17, siemore me gusto hacer otras cosas ademas de ir al colegio, por ejemplo, me gustaba tocar violin y estuve en el conservatorio nacional de musica durante 9 anios, tambien estuve en otras actividades extracurriculares como
