@@ -1,0 +1,8 @@
+print("Reglas de Serpientes y Escaleras")
+print("Objetivo del juego: Ser el primer jugador en llegar a la casilla final del tablero.")
+print("Como jugar:")
+print("- Los jugadores se turnan para tirar un dado y mover su pieza por el tablero.")
+print("- Cada jugador comienza desde la casilla de inicio.")
+print("- Si un jugador cae en una casilla con la base de una escalera, sube por ella hasta la casilla en la parte superior.")
+print("- Si un jugador cae en una casilla con la cabeza de una serpiente, desciende por ella hasta la casilla en la parte inferior.")
+print("- El juego continúa hasta que un jugador llega a la casilla final, momento en el que se declara como ganador.")
